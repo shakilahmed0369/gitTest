@@ -81,13 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
                     this is another branch
                     <i>this is a change</i>
                     <p>this is vscode branch</p>
-=======
                    <h1>this is conflict message</h1>
->>>>>>> vscode
                 </div>
             </div>
         </div>
