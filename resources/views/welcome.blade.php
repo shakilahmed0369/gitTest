@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     This is a git test!
+                    <p>this is a change</p>
                 </div>
             </div>
         </div>
