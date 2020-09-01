@@ -83,8 +83,6 @@
                 <div class="title m-b-md">
                     This is a git test!
                 </div>
-
-        
             </div>
         </div>
     </body>
