@@ -81,8 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    This is a git test!
-                    <p>this is a change</p>
+                    this is another branch
+                    <i>this is a change</i>
                     <p>this is vscode branch</p>
                 </div>
             </div>
